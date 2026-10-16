@@ -1,5 +1,5 @@
 ## Mergeon
-The workspace for assembling multi-author documents. Author writes, Editor tweaks, Mergeon compiles into high-quality PDF. 
+A distraction-free workspace for multi-author documents. Author writes, Editor tweaks, Mergeon compiles high-quality, print-ready PDFs.  
 
 ### Editor Flow 
 - Create book
