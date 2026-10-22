@@ -9,7 +9,7 @@ Author writes, Editor reviews, Mergeon compiles to print-ready PDFs.
 * Publish book
 
 ### Author Flow 
-* Open persistent magic link 
+* Opens magic link 
 * Write 
 * Auto-save 
 * Submit for review
