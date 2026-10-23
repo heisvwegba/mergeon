@@ -18,12 +18,12 @@ Author writes, Editor reviews, Mergeon compiles to print-ready PDFs.
 
 ### System 
 - Auth & RBAC
-- Chapter state (editable / locked)
+- Chapter state (editable, locked)
 - Fixed theme
 
 ### Stack
 - Sveltekit
-- TipTap, Typst/pandoc
+- TipTap, Typst, Pandoc
 - Supabase
 
 
