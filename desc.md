@@ -21,6 +21,10 @@ Author writes, Editor reviews, Mergeon compiles to print-ready PDFs.
 - Chapter state & lockout mode
 - PDF template
 
+### Stack
+- Sveltekit
+- TipTap, Typst/pandoc
+- Supabase
 
 
 
