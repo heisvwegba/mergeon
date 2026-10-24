@@ -22,7 +22,7 @@ Author writes, Editor reviews, Mergeon compiles to print-ready PDFs.
 
 ### Stack
 - Sveltekit
-- TipTap, Typst, Pandoc
+- TipTap, Typst + Pandoc
 - Supabase
 
 
