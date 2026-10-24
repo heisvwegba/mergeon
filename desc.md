@@ -5,19 +5,18 @@ Author writes, Editor reviews, Mergeon compiles to print-ready PDFs.
 ### Editor Flow 
 * Create book
 * Add chapters, set index & assign authors
-* Review HTML & compile PDF
+* Review draft & Preview PDF
 * Publish book
 
 ### Author Flow 
-* Click magic link
-* Write 
+* Write
 * Auto-save 
 * Submit for review
 
 #
 
 ### System 
-- Auth & RBAC
+- Magic links
 - Chapter state (editable, locked)
 - Fixed theme
 
